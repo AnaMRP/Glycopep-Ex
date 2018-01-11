@@ -1,4 +1,3 @@
-""" Project work for Python course - HT2017"""
 """ Script that takes up feature files from mass spectrometry raw data processed through PEAKS StudioTM and extracts those ions (rows) containing GlcNAc as"""
 """ post-translational modification (+203.08), either in the DB sequence or the de novo sequence. For those, outpus simple plots to understand the data"""
 
