@@ -7,7 +7,7 @@ It requires mass spectrometry results from nanoLC-MS/MS experiments to be proces
 
 HOW IT WORKS:
 
-Modify the script with the name of the file to analyze (instead of "test.txt" or "peptide_feature_1.txt") and the mass of the oxonium ion of the PTM studied. Currently set for the search of GlcNAc with 203.08 as oxonium ion. To include more oxonium ions, edit the code with the OR (|) expression (e.g. '203.08'|'162.05' for GlcNAc and Hex). 
+Modify the script with the name of the file to analyze (instead of "test.txt" or "peptide_features_1.txt") and the mass of the oxonium ion of the PTM studied. Currently set for the search of GlcNAc with 203.08 as oxonium ion. To include more oxonium ions, edit the code with the OR (|) expression (e.g. '203.08'|'162.05' for GlcNAc and Hex). 
 
 OUTPUTS:
 
